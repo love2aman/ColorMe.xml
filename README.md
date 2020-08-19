@@ -22,4 +22,5 @@ Here is a cool Notepad++ theme which you can use it in your program by installin
  
  THANKS FOR INSTALLING>>>>>>>>>>>>PLS GIVE YOUR VALUABLE FEEDBACK IN ISSUES if U have>>>>>> :smiling_face_with_three_hearts: :relaxed: :heart_eyes: 
 
-*Connect with me on linkedIn here : <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> <a href="https://www.linkedin.com/in/aman-raj-07b6aa153">Click here...</a>
+####### Connect with me on linkedIn here : 
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> <a href="https://www.linkedin.com/in/aman-raj-07b6aa153">Click here...</a>
