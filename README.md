@@ -1,8 +1,8 @@
-# ColorMe.xml
+# ColorMe.xml :star2: :star2: :star2:
 Here is a cool Notepad++ theme which you can use it in your program by installing it.
 
 
-### STEPS FOR INSTALLING THIS THEME:
+### STEPS FOR INSTALLING THIS THEME: :mega:
 
 1>CLONE THIS TO YOUR DESKTOP AND EXTRACT IT.
 
@@ -14,13 +14,13 @@ Here is a cool Notepad++ theme which you can use it in your program by installin
 
 5> CHOOSE THE THEME THAT YOU JUST PASTED, WITH THE SAME NAME THAT IS, ColorMe.xml 
 
-6> Have Fun.......... 
+6> Have Fun.......... :surfer: :surfer: :surfer:
 
 
 
-### MOTO: "WHY SHOULD ONLY POPULAR TEXT EDITORS HAVE ALL THE FUN"
+### MOTO: "WHY SHOULD ONLY POPULAR TEXT EDITORS HAVE ALL THE FUN" :dart:
  
  THANKS FOR INSTALLING>>>>>>>>>>>>PLS GIVE YOUR VALUABLE FEEDBACK IN ISSUES if U have>>>>>> :smiling_face_with_three_hearts: :relaxed: :heart_eyes: 
 
-###### Connect with me on linkedIn here :
+###### Connect with me on linkedIn here : :eyeglasses:
 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> <a href="https://www.linkedin.com/in/aman-raj-07b6aa153">Click here :smiley:...</a>
