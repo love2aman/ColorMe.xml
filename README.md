@@ -15,5 +15,5 @@ STEPS FOR INSTALLING THIS THEME:
 
 MOTO: "WHY SHOULD ONLY POPULAR TEXT EDITORS HAVE ALL THE FUN"
  
-THANKS FOR INSTALLING>>>>>>>>>>>>PLS GIVE YOUR VALUABLE FEEDBACK IN ISSUES if U have>>>>>> :smiling_face_with_three_hearts: 
+THANKS FOR INSTALLING>>>>>>>>>>>>PLS GIVE YOUR VALUABLE FEEDBACK IN ISSUES if U have>>>>>> :smiling_face_with_three_hearts: :relaxed: :heart_eyes:
 
