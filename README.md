@@ -1,5 +1,5 @@
 # ColorMe.xml
-Here is a cool Notepad++ theme which you can use it in your program by installing it.
+#Here is a cool Notepad++ theme which you can use it in your program by installing it.#
 
 
 STEPS FOR INSTALLING THIS THEME:
