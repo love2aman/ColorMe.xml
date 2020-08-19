@@ -2,7 +2,7 @@
 Here is a cool Notepad++ theme which you can use it in your program by installing it.
 
 
-### STEPS FOR INSTALLING THIS THEME: :mega:
+### STEPS FOR INSTALLING THIS THEME: :mega: :mega: :mega:
 
 1>CLONE THIS TO YOUR DESKTOP AND EXTRACT IT.
 
